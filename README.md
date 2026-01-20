@@ -23,15 +23,7 @@ npm start
 ```
 
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-How It Works
-
- First-time visitors enter their name to join the leaderboard
- Each visit increments their visit count
- Visitors are ranked by total visits with trophy icons for top 3
- External links section provides curated websites filtered by category
- All data is stored locally in the browser
-
+   
 #Tech Stack
 
  React 18
