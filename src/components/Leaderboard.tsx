@@ -37,7 +37,7 @@ const Leaderboard: React.FC<LeaderboardProps> = ({ visitors, currentVisitor }) =
 
   return (
     <div className="leaderboard">
-      <h2>🎯 Visitor Arrival Order</h2>
+      <h2>Visitor Arrival Order</h2>
       <div className="leaderboard-stats">
         <p>How many people visited so far: <span className="stat-number">{nonAdminVisitors.length}</span></p>
         <div className="search-container">
