@@ -260,7 +260,7 @@ const App: React.FC = () => {
       )}
 
       <footer className="app-footer">
-        <p>Made with ❤️ using React & TypeScript</p>
+        <p>Made with hands using React & TypeScript || ©Ansh Kumar Thakur</p>
       </footer>
     </div>
   );
