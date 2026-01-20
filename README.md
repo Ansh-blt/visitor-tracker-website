@@ -26,8 +26,8 @@ npm start
    
 #Tech Stack
 
- React 18
- TypeScript
- CSS
+ React 18 |
+ TypeScript |
+ CSS 
 
 Enjoy tracking your visitors! 
